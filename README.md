@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre], Desarrollador Full Stack recién graduado de Henry 🚀
+# ¡Hola! 👋 Soy Daniel mena, Desarrollador Full Stack recién graduado de Henry 🚀
 
 ¡Bienvenido a mi rincón de código! Soy un entusiasta de la programación web con experiencia en tecnologías como React, Redux, Express, Sequelize y PostgreSQL. Mi formación en Henry, un bootcamp intensivo, me ha proporcionado una sólida base para afrontar desafíos y crear soluciones innovadoras.
 
@@ -11,7 +11,7 @@
 
 ## 🎓 Educación
 
-- Graduado de [Nombre del Bootcamp] en [Año]
+- Graduado de Soy Henry en 2024.
 
 ## 💼 Buscando Oportunidades
 
@@ -19,7 +19,7 @@ Actualmente, estoy en busca de oportunidades laborales para aplicar mis conocimi
 
 ## 🌐 Contacto
 
-¡Hablemos! Estoy disponible para discutir proyectos, oportunidades de trabajo y colaboraciones. Puedes contactarme a través de [tu correo electrónico] o [tu perfil de LinkedIn].
+¡Hablemos! Estoy disponible para discutir proyectos, oportunidades de trabajo y colaboraciones. Puedes contactarme a través de dmcymas@gmail.com o https://www.linkedin.com/in/orlando-daniel-mena-cabezas-09738b178/.
 
 ¡Gracias por visitar mi repositorio! 🚀
 

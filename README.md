@@ -19,7 +19,7 @@ Actualmente, estoy en busca de oportunidades laborales para aplicar mis conocimi
 
 ## 🌐 Contacto
 
-¡Hablemos! Estoy disponible para discutir proyectos, oportunidades de trabajo y colaboraciones. Puedes contactarme a través de 📧 dmcymas@gmail.com 0 🔗 LinkedIn.
+¡Hablemos! Estoy disponible para discutir proyectos, oportunidades de trabajo y colaboraciones. Puedes contactarme a través de 📧 [dmcymas@gmail.com](mailto:dmcymas@gmail.com)  o [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/orlando-daniel-mena-cabezas-09738b178/).
 
 ¡Gracias por visitar mi repositorio! 🚀
 

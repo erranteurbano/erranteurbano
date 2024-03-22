@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Daniel mena, Desarrollador Full Stack recién graduado de Henry 🚀
+# ¡Hola! 👋 Soy Daniel mena, Desarrollador Full Stack graduado de Henry 🚀
 
 ¡Bienvenido a mi rincón de código! Soy un entusiasta de la programación web con experiencia en tecnologías como React, Redux, Express, Sequelize y PostgreSQL. Mi formación en Henry, un bootcamp intensivo, me ha proporcionado una sólida base para afrontar desafíos y crear soluciones innovadoras.
 

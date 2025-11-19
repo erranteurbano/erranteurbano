@@ -1,5 +1,3 @@
-# ¡Hola! Soy Daniel Mena — Desarrollador Full Stack 💻🚀
-
 Soy un desarrollador full stack con enfoque práctico y orientado a resultados. Me especializo en crear aplicaciones modernas utilizando tecnologías actuales tanto en frontend como en backend. Me apasiona construir, aprender y mejorar constantemente.
 
 ## 🚀 Tecnologías y Herramientas
@@ -23,9 +21,11 @@ Soy un desarrollador full stack con enfoque práctico y orientado a resultados. 
 ### **DevOps y Herramientas**
 
 * Git & GitHub
+* Docker
 * PostgreSQL Admin Tools
 * Render / Railway / Vercel
 * Postman
+* CI/CD básico
 
 ## 📚 Formación
 
@@ -71,6 +71,7 @@ Me motiva la tecnología, la resolución de problemas y la oportunidad de constr
 ---
 
 Gracias por pasarte por aquí. 🙌
+
 
 
 
